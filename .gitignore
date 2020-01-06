@@ -1,0 +1,5 @@
+yarn.lock
+pakcage-lock.json
+node_modules/
+.DS_Store
+
