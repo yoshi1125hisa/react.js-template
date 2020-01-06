@@ -1,27 +1,17 @@
-# react-express-template
+# react.js-template
 
-This is a template for web development using react and express api.
+## How2run?
 
-## How to use
-
-### clone and setup
-
-```
-$ git clone https://github.com/tenmakamatani/react-express-template.git
-$ cd react-express-template
-$ yarn install
-```
-
-### development
+### dev
 
 ```
 $ yarn dev
 ```
-then wait a few minutes and the browser will open automatically.
 
 ### production
 
 ```
 $ yarn start
 ```
-then access http://localhost:3000
+
+access `http://localhost:3000`

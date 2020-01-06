@@ -1,8 +1,8 @@
 {
-  "name": "react-api-study",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
+  "name": "react-js-template",
+  "version": "1.0.1",
+  "main": "src/index.js",
+  "license": "NOLICENSE",
   "scripts": {
     "build": "ENV=production webpack",
     "dev": "ENV=development webpack-dev-server"
