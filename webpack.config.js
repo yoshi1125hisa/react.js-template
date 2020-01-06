@@ -10,9 +10,9 @@ const htmlWebpackPlugin = new HtmlWebPackPlugin({
 
 module.exports = {
   mode: process.env.ENV,
-  entry: "./src/index.js",
+  entry: "./src/js/index.js",
   output: {
-    path: path.resolve('dist'),
+    path: path.resolve('dist/js'),
     filename: '[name].js'
   },
   module: {
